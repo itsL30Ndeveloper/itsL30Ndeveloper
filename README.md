@@ -1,6 +1,3 @@
-//<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500">
-
-
 <h2> Hey there! I'm Leon. 👋</h2>
 
 ---
