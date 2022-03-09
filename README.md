@@ -1,5 +1,8 @@
+<h2> Hey there! I'm Leon. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"></h2>
+
+
 <p align=”center"> 
-<a href="https://github.comitsL30Ndeveloper"><img width="200"height="200"src="https://miro.medium.com/max/1400/1*b29pJKZqp6Jxb3rd9QlJiw.png"alt="itsL30Nbanner"> 
+<a href="https://github.comitsL30Ndeveloper"> <img src="https://miro.medium.com/max/1400/1*b29pJKZqp6Jxb3rd9QlJiw.png"alt="itsL30Nbanner"></a>
 ---
 
 ## Database
