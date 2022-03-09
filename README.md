@@ -1,10 +1,10 @@
 <h2> Hey there! I'm Leon.</h2>
-<a href="https://github.comitsL30Ndeveloper"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"></a>
 
 ---
 
 <p align=”center"> 
-<a href="https://github.comitsL30Ndeveloper"> <img src="https://miro.medium.com/max/1400/1*b29pJKZqp6Jxb3rd9QlJiw.png"alt="itsL30Nbanner"></a>
+<a href="https://github.comitsL30Ndeveloper"> <img src="https://miro.medium.com/max/1400/1*b29pJKZqp6Jxb3rd9QlJiw.png"alt="itsL30Nbanner"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"></a>
+
 ---
 
 ## Database
