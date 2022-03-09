@@ -9,6 +9,7 @@
 - 🔭 &nbsp; I’m currently learning Discord Bot Development
 - ✍️ &nbsp; Programming Discord Bot/Whatsapp Bot/SA:MP Server & make new features.
 
+</br>
 ---
 
 ## Database
