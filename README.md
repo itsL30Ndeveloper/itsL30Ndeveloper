@@ -1,15 +1,13 @@
-<h2> Hey there! I'm Leon.</h2>
+//<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500">
+
+
+<h2> Hey there! I'm Leon. 👋</h2>
 
 ---
 
 <p align=”center"> 
-<a href="https://github.comitsL30Ndeveloper"> <img src="https://miro.medium.com/max/1400/1*b29pJKZqp6Jxb3rd9QlJiw.png"alt="itsL30Nbanner"><img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"></a> 
-<h3> 👨🏻‍💻 About Me </h3>
+<a href="https://github.comitsL30Ndeveloper"> <img src="https://miro.medium.com/max/1400/1*b29pJKZqp6Jxb3rd9QlJiw.png"alt="itsL30Nbanner"></a> 
 
-- 🔭 &nbsp; I’m currently learning Discord Bot Development
-- ✍️ &nbsp; Programming Discord Bot/Whatsapp Bot/SA:MP Server & make new features.
-
-</br>
 ---
 
 ## Database
